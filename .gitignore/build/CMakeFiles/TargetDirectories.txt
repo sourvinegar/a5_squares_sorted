@@ -1,4 +1,0 @@
-/mnt/c/Users/lacas/a5_squares_sorted/build/CMakeFiles/square.dir
-/mnt/c/Users/lacas/a5_squares_sorted/build/CMakeFiles/my_test.dir
-/mnt/c/Users/lacas/a5_squares_sorted/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lacas/a5_squares_sorted/build/CMakeFiles/rebuild_cache.dir
